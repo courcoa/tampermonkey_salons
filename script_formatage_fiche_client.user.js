@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Correction Nom/Prénom + Acceptations + Bandeau (Tactile & Souris)
 // @namespace    http://tampermonkey.net/
-// @version      2.91
+// @version      2.9
 // @description  Corrige nom/prénom, coche mail & sms, affiche un bandeau, compatible souris + tactile
 // @match        https://salon2.hairnet.fr/management/fiche-client.php*
 // @updateURL    https://courcoa.github.io/tampermonkey_salons/script_formatage_fiche_client.user.js
