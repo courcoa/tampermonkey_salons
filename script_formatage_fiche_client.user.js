@@ -4,7 +4,6 @@
 // @version      2.91
 // @description  Corrige nom/prénom, coche mail & sms, affiche un bandeau, compatible souris + tactile
 // @match        https://salon2.hairnet.fr/management/fiche-client.php*
-// @updateURL    https://courcoa.github.io/tampermonkey_salons/script_formatage_fiche_client.user.js
 // @downloadURL  https://courcoa.github.io/tampermonkey_salons/script_formatage_fiche_client.user.js
 // @grant        none
 // ==/UserScript==
