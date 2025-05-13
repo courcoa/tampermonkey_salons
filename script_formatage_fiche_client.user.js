@@ -21,7 +21,7 @@
     left: '0',
     right: '0',
     padding: '6px 0',
-    backgroundColor: 'red', //#4CAF50
+    backgroundColor: 'red', //#4CAF50 black
     color: 'white',
     textAlign: 'center',
     fontSize: '14px',
